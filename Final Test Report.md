@@ -105,15 +105,15 @@
 |-------|-------------|---------------|----------|-------|
 | | | | | |
 
-**Progress Tracking Method:**  
-**Change Control Notes:**
+**Progress Tracking Method:**  Daily status updates via Google Sheet & WhatsApp group.  
+**Change Control Notes:** No major scope changes during execution; minor adjustment in test duration due to retesting bonus feature.  
 
 ## Lessons Learned
 
-- Most Defect Prone Feature: 
-- Risk Analysis Impact: 
-- Team Communication Effectiveness: 
-- Improvements for Next Cycle: 
+- Most Defect Prone Feature: Leaderboard persistence(due to localStorage dependency)  
+- Risk Analysis Impact: Helped prioritize tests on storage and scoring logic  
+- Team Communication Effectiveness: Smooth coordination throught WhatApp and shared sheet  
+- Improvements for Next Cycle: Add Mobile browser and autommate leeaderboard validation  
 
 ## Attachments
 
@@ -123,9 +123,9 @@
 
 | Name | Role | Initials | Date |
 |------|------|-----------|------|
-| | Test Manager | | |
-| | Risk Analyst | | |
-| | Test Executor | | |
+| | Test Manager | | 27th Oct 2025 |
+| | Risk Analyst | | 27th Oct 2025 |
+| Olaleye Ibrahim | Test Executor | OI | 27th Oct 2025 |
 
 ## Overall Summary
 
