@@ -90,10 +90,10 @@
 
 | ID | Issue Title | Severity | Risk ID | Status | GitHub Link |
 |----|-------------|----------|---------|--------|-------------|
-| D1 | Leaderboard data lost permanently after cache clear | High | R1 | Open |  |
-| D2 | Reset Game lacks confirmation dialog | Medium | R3 | Open | |
-| D3 | Leaderbaord sortin inconsistency when multiple identical scores | Medium | R4 | Open | |
-| D4 | Bonus explanation unclear to new users | Low | R6 | Open | |
+| D1 | Leaderboard data lost permanently after cache clear | High | R1 | Open | https://github.com/PLP-Database-Design/wk-5-mokwathedeveloper-2/issues/5#issue-3559396201  |
+| D2 | Reset Game lacks confirmation dialog | Medium | R3 | Open | https://github.com/PLP-Database-Design/wk-5-mokwathedeveloper-2/issues/6#issue-3559399201 |
+| D3 | Leaderbaord sortin inconsistency when multiple identical scores | Medium | R4 | Open | https://github.com/PLP-Database-Design/wk-5-mokwathedeveloper-2/issues/7#issue-3559401840 |
+| D4 | Bonus explanation unclear to new users | Low | R6 | Open | https://github.com/PLP-Database-Design/wk-5-mokwathedeveloper-2/issues/8#issue-3559416067 |
 
 
 ## Metrics
